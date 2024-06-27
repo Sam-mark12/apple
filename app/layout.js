@@ -10,7 +10,7 @@ const poppins= Poppins({
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Apple Created BY Rownok Mahbub',
+  title: 'Apple',
   description: 'Apple website build with  Next js which a powerful framework',
 }
 
